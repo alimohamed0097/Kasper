@@ -1,0 +1,10 @@
+{
+  "editor.tabSize": 2,
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1,
+  "cSpell.autoFormatConfigFile": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.suggest.showStatusBar": false,
+  "zenMode.hideStatusBar": false
+}
